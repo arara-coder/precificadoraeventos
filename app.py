@@ -86,3 +86,15 @@ Sua ajuda nos permite continuar criando ferramentas que cuidam. 🌱
 st.markdown("---")
 st.subheader("✨ Avaliação e Feedback")
 st.markdown("[⭐ Avalie ou envie sugestões clicando aqui](https://tally.so/r/wbGRAy)")
+
+# (também após o bloco de avaliação)
+
+st.markdown("---")
+st.subheader("🔧 Precisa de uma versão personalizada?")
+st.markdown("""
+Faz algo diferente de lembrancinha ou buffet?  
+Quer uma calculadora que se encaixe melhor no seu tipo de produto?
+
+👉 [Solicite aqui sua versão personalizada](https://tally.so/r/SEULINKPERSONALIZADO)
+""")
+
